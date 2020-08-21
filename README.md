@@ -1,7 +1,7 @@
 # 🐍 Python - Anybody Can Code 🐍
 [![first-timers-only](https://img.shields.io/badge/first--timers-friendly-blue?style=for-the-badge&logo=appveyor)](https://www.firsttimersonly.com/)
-[![first-timers-only](https://img.shields.io/badge/Powered--By-python-green?style=for-the-badge&logo=appveyor)](https://www.python.org/)
-[![first-timers-only](https://img.shields.io/badge/Platform-Jupyter--Notebook-orange?style=for-the-badge&logo=appveyor)](https://jupyter.org/)
+[![powered-by-python](https://img.shields.io/badge/Powered--By-python-green?style=for-the-badge&logo=appveyor)](https://www.python.org/)
+[![platform-jupyter-notebook](https://img.shields.io/badge/Platform-Jupyter--Notebook-orange?style=for-the-badge&logo=appveyor)](https://jupyter.org/)
 
 
 <p align="center">
