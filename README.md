@@ -1,5 +1,10 @@
 # 🐍 Python - Anybody Can Code 🐍
-![Readme cover](assets/header)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue?style=for-the-badge&logo=appveyor)](https://www.firsttimersonly.com/)
+[![first-timers-only](https://img.shields.io/badge/Language--python-orange?style=for-the-badge&logo=appveyor)](#)
+
+<p align="center">
+  <img width="520" height="400" src="assets/header.jpg">
+</p>
 ## :speech_balloon: "Python - Anybody Can Code" is a certification course focused on basic understanding of the Python programming language for newbies.
 
 This repository provides supplementary resource materials for Python - Anybody Can Code webinar hosted by JU Computer Club.
