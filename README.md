@@ -1,6 +1,7 @@
 # 🐍 Python - Anybody Can Code 🐍
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue?style=for-the-badge&logo=appveyor)](https://www.firsttimersonly.com/)
 [![first-timers-only](https://img.shields.io/badge/Powered--By-python-green?style=for-the-badge&logo=appveyor)](#)
+[![first-timers-only](https://img.shields.io/badge/Powered--By-Jupyter-Notebook-orange?style=for-the-badge&logo=appveyor)](#)
 
 <p align="center">
   <img width="613" height="350" src="assets/header.jpg">
@@ -16,6 +17,7 @@
 
 ## :star: Credits
 
+:arrow_forward: Cover Image Design - [Mansura Kabir](https://github.com/oni201)  <br />
 :arrow_forward: Course Instructor 1 - [Faiza Feroz](https://github.com/Faiza27) <br />
 :arrow_forward: Course Instructor 2 - [Rubaiya Reza Sohana](https://github.com/Sohanareza) <br />
-:arrow_forward: Cover Image Design - [Mansura Kabir](https://github.com/oni201) 
+:arrow_forward: Digital Badge - [shields.io](https://shields.io/) 
